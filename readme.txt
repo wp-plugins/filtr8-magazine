@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Filtr8 Magazine plugin is a simple way to display content curated with Filtr8 in your WordPress site
+Create amazing curated magazine about your specific subjects to engage and grow your audience. Improve retention, drive conversion, be awesome!
 
 == Description ==
 
