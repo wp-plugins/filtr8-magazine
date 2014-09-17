@@ -1,13 +1,13 @@
 === Filtr8 Magazine ===
 Contributors: Filtr8
-Tags: content, media, marketing, newsletter, magazine, page, shortcode
+Tags: content, curation, discovery, content discovery, content curation, content marketing, retention, churn, engagement, leads, new leads, leads generation, media, marketing, newsletter, magazine, page, shortcode
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 4.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Create amazing curated magazine about your specific subjects to engage and grow your audience. Improve retention, drive conversion, be awesome!
+Easily curate and publish amazing magazine on specific subjects highly relevant for your business. Improve retention, drive conversion, be awesome!
 
 == Description ==
 
