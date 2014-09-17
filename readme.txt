@@ -1,6 +1,6 @@
 === Filtr8 Magazine ===
 Contributors: Filtr8
-Tags: content, curation, discovery, content discovery, content curation, content marketing, retention, churn, engagement, leads, new leads, leads generation, media, marketing, newsletter, magazine, page, shortcode
+Tags: content, curation, discovery, content discovery, content curation, content marketing, retention, engagement, leads, new leads, leads generation, media, marketing, newsletter, magazine, page, shortcode
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 4.3
