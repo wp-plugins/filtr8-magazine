@@ -32,8 +32,8 @@ Your audience and customers will love it.
 
 1. Sign up for [Filtr8](http://filtr8.com/discover/signup.php "Sign up for Filtr8"), create your Newsroom feed and publish some items
 1. Install and activate Filtr8 Magazine plugin on your WordPress Plugins page
-1. Grab the shortcut code for your magazine from your Filtr8 Newsroom using the "Magazine" button
-1. Add shortcode to your page
+1. Grab the shortcut code for your magazine from your Filtr8 Newsroom using the "Magazine" button (see Screenshots for illustration)
+1. Add shortcode to your page (see Screenshots for illustration)
 
 == Changelog ==
 
