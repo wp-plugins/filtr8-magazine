@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Effortlessly discover, publish and share amazing stories and news to make your visitors stay longer, come back more often, and convert them to your subscribers and customers.
+Effortlessly discover, publish and share amazing stories and news to make your visitors stay longer and come back more often
 
 == Description ==
 
@@ -19,7 +19,7 @@ New relevant stories come to your Filtr8 Newsroom automatically, and you just ch
 Providing the relevant high-qualiy content to your audience is an excellent way of growing engagement, 
 establishing thought leadership and getting new leads for your business.
 
-Your audience and customers will love it. 
+Your audience will love it. 
 
 == Screenshots ==
 
