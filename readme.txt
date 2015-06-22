@@ -7,16 +7,15 @@ Stable tag: 4.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Filtr8 Magazine plugin is a simple way to display content curated with Filtr8 in your WordPress site
+Effortlessly discover, publish and share amazing stories and news to make your visitors stay longer, come back more often, and convert them to your subscribers and customers.
 
 == Description ==
 
-Filtr8 Magazine Plugin is a simple way to display content curated with [Filtr8](http://filtr8.com/ "Welcome to Filtr8") in your WordPress site.
+Add to your web site a stunning magazine with amazing news, images and stories, highly relevant to your business. Drive traffic, improve conversion, delight your visitors!
 
 With [Filtr8](http://filtr8.com/ "Welcome to Filtr8") you become a publisher of engaging magazine about the latest news, developments and insights in your business area. 
 New relevant stories come to your Filtr8 Newsroom automatically, and you just choose which ones to publish.
 
-Add to your web site a stunning magazine widget with amazing news and stories, highly relevant to your business. 
 Providing the relevant high-qualiy content to your audience is an excellent way of growing engagement, 
 establishing thought leadership and getting new leads for your business.
 
