@@ -1,4 +1,3 @@
-=== Easy Magazine ===
 Contributors: Filtr8
 Tags: widget, news, twitter, facebook, content, media, marketing, newsletter, magazine, posts, shortcode
 Requires at least: 3.0
