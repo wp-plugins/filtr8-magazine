@@ -34,6 +34,8 @@ And your audience will simply love it.
 1. Install and activate Filtr8 Magazine plugin on your WordPress Plugins page
 1. Grab the shortcut code for your magazine from your Filtr8 Newsroom using the "Magazine" button
 1. Add shortcode to your page
+1. See [Filtr8 Quick Guide](http://filtr8.uservoice.com/knowledgebase/articles/605733-filtr8-quick-guide "Filtr8 Quick Guide") for more details on magazine's configuration
+
 
 == Changelog ==
 
