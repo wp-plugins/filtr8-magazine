@@ -25,15 +25,15 @@ And your audience will simply love it.
 == Screenshots ==
 
 1. Filtr8 Magazine
-2. Getting the shortcode
-3. Using the shortcode
+2. Getting the shortcode from your Filtr8 Newsroom
+3. Using the shortcode on your WP page
 
 == Installation ==
 
 1. Sign up for [Filtr8](https://filtr8.com/join "Sign up for Filtr8"), create your Newsroom feed and publish some items
 1. Install and activate Filtr8 Magazine plugin on your WordPress Plugins page
-1. Grab the shortcut code for your magazine from your Filtr8 Newsroom using the "Magazine" button
-1. Add shortcode to your page
+1. Grab the shortcut code for your magazine from your Filtr8 Newsroom using the "Magazine setup" button (see screenshots)
+1. Add shortcode to your page (see screenshots)
 1. See [Filtr8 Quick Guide](http://filtr8.uservoice.com/knowledgebase/articles/605733-filtr8-quick-guide "Filtr8 Quick Guide") for more details on magazine's configuration
 
 
